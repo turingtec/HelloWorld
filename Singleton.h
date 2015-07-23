@@ -1,5 +1,5 @@
-#ifndef __Singleton__
-#define __Singleton__
+#ifndef __Singleton__H_
+#define __Singleton__H_
 
 template <typename T>
 class Singleton
